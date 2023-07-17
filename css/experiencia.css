@@ -91,4 +91,7 @@
   .empresa {
     grid-template-columns: 1fr;
   }
+  .experiencia {
+    padding: 20px;
+  }
 }
